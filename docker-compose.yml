@@ -3,4 +3,4 @@ version: "3.6"
 services:
   ffmpeg:
     build: .
-    image: mattipaksula/ffmpeg
+    image: mattipaksula/ffmpeg:4.4.1
